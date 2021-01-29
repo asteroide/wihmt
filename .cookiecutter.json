@@ -1,0 +1,10 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Asteroide",
+  "email": "asteroide@domtombox.net",
+  "friendly_name": "Will I have money tomorrow",
+  "github_user": "asteroide",
+  "package_name": "wihmt",
+  "project_name": "wihmt",
+  "version": "0.1.0"
+}
